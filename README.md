@@ -4,7 +4,7 @@
  - 💻 I'm currently enrolled in Computer Science III
 
 ### Contact Me
-####sweerisandrew@yahoo.com
+#### sweerisandrew@yahoo.com
 
 ### Proficient Languages
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> 
