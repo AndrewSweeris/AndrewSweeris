@@ -1,5 +1,5 @@
-## Howdy, I'm Andrew Sweeris
-### A java developer in High School
+## Hello, I'm Andrew Sweeris
+### A computer science student in High School
 
  - 💻 I'm currently enrolled in Computer Science III
 
